@@ -1,0 +1,5 @@
+blue,azul
+yellow,amarrillo
+red,rojo
+ball,pelota
+work,trabajo
